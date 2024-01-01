@@ -1,7 +1,7 @@
 # Experiment-06 Synchornous counters up counter
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### Name: MOHAMMED IBRAHIM MN
-### Register number: 23005104
+### Register number: 2122213100034
 ##### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ##### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
